@@ -20,3 +20,4 @@
 
 ## Немного статистики 📈
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtofWASD&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtofWASD&theme=default)
