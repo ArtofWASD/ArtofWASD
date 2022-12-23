@@ -1,5 +1,6 @@
-# Hi all 👋 my name is Leonid! <br> And I'm a frontend developer 🤖!
+# Hi all 👋 my name is Leonid! <br> And I'm a frontend-developer 🤖!
 ## Briefly about myself:
+- 👀 Seeking employment as junior front-end developer, or internship.
 - 📖 I like to learn!
 - 👨‍💻 I want to work for a large development company, and develop complex user interfaces and applications 📱.
 - 🥳 I can find common ground with anyone.
